@@ -1,0 +1,16 @@
+.prototype-dialog {
+    max-width: 500px;
+    min-width: 320px;
+    padding: 30px;
+    border: 5px solid  govuk-colour("black");
+  
+    &:focus {
+      outline: 3px solid $govuk-focus-colour;
+    }
+  
+    &::backdrop {
+      background: rgba( govuk-colour("black"), 0.5);
+    }
+  }
+  
+  

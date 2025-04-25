@@ -1,0 +1,15 @@
+{
+    "sass": [
+      "/app/assets/sass/components/_dialog.scss"
+    ],
+    "scripts": [
+      {
+        "type": "module",
+        "path": "/app/assets/javascripts/init.js"
+      },
+      {
+        "type": "module",
+        "path": "/app/assets/javascripts/components/dialog.js"
+      }
+    ]
+  }
