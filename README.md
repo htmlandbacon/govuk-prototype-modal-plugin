@@ -10,7 +10,7 @@ npm i https://github.com/htmlandbacon/govuk-prototype-modal-plugin
 
 ## Examples
 
-Adding data-module="prototype-modal" to a link or button turns it into a modal.
+Adding data-prototype-module="prototype-modal" to a link or button turns it into a modal.
 
 The following can be configured by adding data-*="value" (see coded example)
 
